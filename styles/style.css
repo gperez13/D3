@@ -67,3 +67,31 @@ p {
 #graphic {
   margin: 0 auto;
 }
+
+
+
+/*end of reset*/
+
+
+.highlight {
+  color: #C64C6F;
+}
+
+
+
+.item{
+  padding-left: 30px;
+}
+
+.bigger {
+  font-size: 150%;
+}
+
+
+
+
+
+
+
+
+
